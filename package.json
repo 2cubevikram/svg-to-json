@@ -1,0 +1,17 @@
+{
+  "name": "svg-create",
+  "version": "1.0.0",
+  "description": "this project created for only svg files to make a json code",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx nodemon server.js"
+  },
+  "author": "2CUBE Studio",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.12",
+    "express": "^4.19.1",
+    "nodemon": "^3.1.0"
+  }
+}
